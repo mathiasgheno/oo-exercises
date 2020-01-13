@@ -1,0 +1,20 @@
+{
+  "name": "oo-exercises",
+  "version": "1.0.0",
+  "description": "basic exercises about oo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "oo",
+    "js",
+    "exercises"
+  ],
+  "author": "mathias gheno azzolini",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0"
+  }
+}
